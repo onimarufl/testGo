@@ -1,0 +1,81 @@
+{
+  "line": {
+    "footer": {
+      "contents": [
+        {
+          "style": "primary",
+          "action": {
+            "type": "uri",
+            "uri": "https://linecorp.com",
+            "label": "สั่งซื้อ"
+          },
+          "gravity": "top",
+          "color": "#47FF00FF",
+          "type": "button"
+        },
+        {
+          "type": "button",
+          "color": "#736F6AFF",
+          "action": {
+            "type": "uri",
+            "label": "ยกเลิก",
+            "uri": "https://linecorp.com"
+          },
+          "style": "primary"
+        }
+      ],
+      "spacing": "sm",
+      "layout": "vertical",
+      "type": "box"
+    },
+    "hero": {
+      "url": "https://www.หวยเด็ด.net/wp-content/uploads/2019/11/ฝันเห็นสร้อยทอง.jpg",
+      "aspectMode": "cover",
+      "size": "full",
+      "type": "image",
+      "aspectRatio": "20:13"
+    },
+    "type": "bubble",
+    "body": {
+      "spacing": "sm",
+      "contents": [
+        {
+          "wrap": true,
+          "size": "xxl",
+          "type": "text",
+          "contents": [],
+          "text": "สร้อยทองคำ",
+          "color": "#2056EBFF",
+          "weight": "bold"
+        },
+        {
+          "contents": [
+            {
+              "contents": [],
+              "text": "13,000 ",
+              "flex": 0,
+              "type": "text",
+              "weight": "bold",
+              "size": "xl",
+              "color": "#000000FF",
+              "wrap": true
+            },
+            {
+              "text": ".00 THB",
+              "weight": "bold",
+              "wrap": true,
+              "contents": [],
+              "flex": 0,
+              "size": "xl",
+              "type": "text"
+            }
+          ],
+          "layout": "baseline",
+          "type": "box"
+        }
+      ],
+      "layout": "vertical",
+      "type": "box"
+    }
+  }
+}
